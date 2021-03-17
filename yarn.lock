@@ -7128,10 +7128,10 @@ joi@^13.0.0:
     isemail "3.x.x"
     topo "3.x.x"
 
-jquery-textcomplete@1.6.1:
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/jquery-textcomplete/-/jquery-textcomplete-1.6.1.tgz#ca5ddecf5ea5370bb400380dc79785b35afbad17"
-  integrity sha1-yl3ez16lNwu0ADgNx5eFs1r7rRc=
+jquery-textcomplete@1.8.5:
+  version "1.8.5"
+  resolved "https://registry.yarnpkg.com/jquery-textcomplete/-/jquery-textcomplete-1.8.5.tgz#df9724b42c3af9ece272356a7e8b55cd9cf239dd"
+  integrity sha512-WctSUxFk7GF5Tx2gHeVKrpkQ9tsV7mibBJ0AYNwEx+Zx3ZoUQgU5grkBXY3SCqpq/owMAMEvksN96DBSWT4PSg==
 
 jquery-ui@1.12.0:
   version "1.12.0"

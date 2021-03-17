@@ -29,7 +29,7 @@
     "functional": "test/functional/run.js --serve-deck --replay-fixtures --browser chrome --headless"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.4.1",
+    "@fortawesome/fontawesome-free": "^5.15.2",
     "@spinnaker/kayenta": "0.0.85",
     "@spinnaker/styleguide": "^1.0.12",
     "@types/date-fns": "^2.6.0",
